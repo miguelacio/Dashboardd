@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboard/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/miguelacio/.android/build-cache/89d1d162e706a43bbcc85209fcc95a86a741b037/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboardd/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboard/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboardd/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboardd/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboard/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/miguelacio/.android/build-cache/89d1d162e706a43bbcc85209fcc95a86a741b037/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboardd/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboard/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboardd/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboard/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/miguelacio/.android/build-cache/89d1d162e706a43bbcc85209fcc95a86a741b037/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboard/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboard/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/miguelacio/.android/build-cache/89d1d162e706a43bbcc85209fcc95a86a741b037/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboard/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboardd/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboardd/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/miguelacio/.android/build-cache/ba3ee5a3def4ab507bb36446fbcb13473c0599af/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboardd/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboard/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboard/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboard/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/miguelacio/.android/build-cache/89d1d162e706a43bbcc85209fcc95a86a741b037/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboard/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/miguelacio/.android/build-cache/89d1d162e706a43bbcc85209fcc95a86a741b037/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboardd/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/miguelacio/.android/build-cache/ba3ee5a3def4ab507bb36446fbcb13473c0599af/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboard/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboard/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboardd/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/miguelacio/.android/build-cache/ba3ee5a3def4ab507bb36446fbcb13473c0599af/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboardd/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboardd/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/miguelacio/.android/build-cache/ba3ee5a3def4ab507bb36446fbcb13473c0599af/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboardd/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/miguelacio/.android/build-cache/ba3ee5a3def4ab507bb36446fbcb13473c0599af/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboard/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboard/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboardd/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/miguelacio/.android/build-cache/ba3ee5a3def4ab507bb36446fbcb13473c0599af/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboardd/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboardd/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]

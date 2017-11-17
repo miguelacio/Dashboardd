@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboardd/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/miguelacio/ReactProjects/Dashboardd/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/Dashboard/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/miguelacio/ReactProjects/Dashboard/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
